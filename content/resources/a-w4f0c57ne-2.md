@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8917ef57940359c492e19ba28a3f9f3f_a-w4F0c57nE.vtt
+file: /media/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8917ef57940359c492e19ba28a3f9f3f_a-w4F0c57nE.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 8917ef57-9403-59c4-92e1-9ba28a3f9f3f

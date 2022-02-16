@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 3: Inverting a Matrix
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiv_lec03))
+
+  *   Solutions ([PDF - 2.9MB](resources/mitres_18_007_partiv_sol03))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part IV: Matrix Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Inverting a Matrix'
 uid: 3d45ff5a-3dd6-58fb-2496-0ac19b6e5821
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part4_lec3_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/08db3cf0a002524986ed04aedc220418_sZh-zowKEQQ.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/08db3cf0a002524986ed04aedc220418_sZh-zowKEQQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/sZh-zowKEQQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d628bc8c6fd2840e0ff6e4c165e65bc7_sZh-zowKEQQ.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d628bc8c6fd2840e0ff6e4c165e65bc7_sZh-zowKEQQ.pdf
 video_metadata:
   youtube_id: sZh-zowKEQQ
 ---

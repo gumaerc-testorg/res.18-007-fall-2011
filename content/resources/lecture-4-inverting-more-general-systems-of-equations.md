@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 4: Inverting More General Systems of Equations
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiv_lec04))
+
+  *   Solutions ([PDF - 1.5MB](resources/mitres_18_007_partiv_sol04))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part IV: Matrix Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Inverting More General Systems of Equations'
 uid: a05d281f-e685-dccb-6014-3f26fb2c0a5c
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part4_lec4_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8917ef57940359c492e19ba28a3f9f3f_a-w4F0c57nE.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8917ef57940359c492e19ba28a3f9f3f_a-w4F0c57nE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/a-w4F0c57nE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d8c2cf62dd484e3d293369b906faaa32_a-w4F0c57nE.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d8c2cf62dd484e3d293369b906faaa32_a-w4F0c57nE.pdf
 video_metadata:
   youtube_id: a-w4F0c57nE
 ---

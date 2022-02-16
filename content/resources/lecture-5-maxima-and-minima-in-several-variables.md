@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 5: Maxima and Minima in Several Variables
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiv_lec05))
+
+  *   Solutions ([PDF - 3.8MB](resources/mitres_18_007_partiv_sol05))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part IV: Matrix Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Maxima and Minima in Several Variables'
 uid: 671b8bca-f55d-b7e9-d5aa-614793574cd5
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part4_lec5_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/b3756d186d895db78fc3c968a3daa79b_io8kTsSnOdE.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/b3756d186d895db78fc3c968a3daa79b_io8kTsSnOdE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/io8kTsSnOdE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/a7ca0e0fd5f948269718ffd821bc7bbc_io8kTsSnOdE.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/a7ca0e0fd5f948269718ffd821bc7bbc_io8kTsSnOdE.pdf
 video_metadata:
   youtube_id: io8kTsSnOdE
 ---

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: New file Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d1421fd398e65fa10df1338be70ba296_MITRES_18_007_partII_sol03.pdf
+file: /media/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/d1421fd398e65fa10df1338be70ba296_MITRES_18_007_partII_sol03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_007_partII_sol03.pdf
 uid: d1421fd3-98e6-5fa1-0df1-338be70ba296

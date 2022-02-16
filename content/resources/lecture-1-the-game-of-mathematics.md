@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 1: The "Game" of Mathematics
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.8MB](resources/mitres_18_007_parti_lec01))
+
+  *   Solutions ([PDF - 3.7MB](resources/mitres_18_007_parti_sol01))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Vector Arithmetic'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: The "Game" of Mathematics'
 uid: d962ed44-547d-c14d-0911-efb1905b73ed
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part1_lec1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/b423b1d4c9e25994a53d9f3da4ef25d7_wsOoClvZmic.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/b423b1d4c9e25994a53d9f3da4ef25d7_wsOoClvZmic.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wsOoClvZmic/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/0a5257404fb3b829a12d6f7dc5e4159c_wsOoClvZmic.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/0a5257404fb3b829a12d6f7dc5e4159c_wsOoClvZmic.pdf
 video_metadata:
   youtube_id: wsOoClvZmic
 ---

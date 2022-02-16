@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 2: "Arrow" Arithmetic
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec02))
+
+  *   Solutions ([PDF - 2.8MB](resources/mitres_18_007_parti_sol02))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Vector Arithmetic'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture  2: "Arrow" Arithmetic'
 uid: 82669d21-207c-824a-bede-d946e8655899
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part1_lec2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/9ccad2955fd95572a534c803d4d1020e_nFf_SJRwfaY.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/9ccad2955fd95572a534c803d4d1020e_nFf_SJRwfaY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nFf_SJRwfaY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/c97caaa534bdc18e10a1394693507209_nFf_SJRwfaY.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/c97caaa534bdc18e10a1394693507209_nFf_SJRwfaY.pdf
 video_metadata:
   youtube_id: nFf_SJRwfaY
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part II: Vector Calculus'
 uid: 8e4866a4-3ba4-db3d-0267-f6a59263502c
 videos:

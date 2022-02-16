@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part I: Vector Arithmetic'
 uid: c4026cb5-e0a6-38f4-a7f6-1f66897500ed
 videos:

@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 4: The Dot Product
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec04))
+
+  *   Solutions ([PDF - 2.9MB](resources/mitres_18_007_parti_sol04))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Vector Arithmetic'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: The Dot Product'
 uid: 1888a81a-a9d9-5bb4-7ba5-87c2b2cc5169
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part1_lec4_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/6ca955e782415a3e968672d9b36318da_y9Sa8StSX-M.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/6ca955e782415a3e968672d9b36318da_y9Sa8StSX-M.vtt
   video_thumbnail_file: https://img.youtube.com/vi/y9Sa8StSX-M/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/9f83879450055c6a5ae4d297ed5842a2_y9Sa8StSX-M.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/9f83879450055c6a5ae4d297ed5842a2_y9Sa8StSX-M.pdf
 video_metadata:
   youtube_id: y9Sa8StSX-M
 ---

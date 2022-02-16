@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part III: Partial Derivatives'
 uid: 852f6946-7e15-354e-2b25-115e4cf094f4
 videos:

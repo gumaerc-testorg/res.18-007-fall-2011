@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 5: Integrals Involving Parameters
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiii_lec05))
+
+  *   Solutions ([PDF - 3.0MB](resources/mitres_18_007_partiii_sol05))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part III: Partial Derivatives'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Integrals Involving Parameters'
 uid: c78cd603-8237-8cfd-7659-632bb9297e79
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part3_lec5_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/31b2db18feaf571aa928da5af967af0b_NxbJzEMCU.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/31b2db18feaf571aa928da5af967af0b_NxbJzEMCU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/__NxbJzEMCU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/7712fa509966a9b124fbf8bb83c03a25_NxbJzEMCU.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/7712fa509966a9b124fbf8bb83c03a25_NxbJzEMCU.pdf
 video_metadata:
   youtube_id: __NxbJzEMCU
 ---

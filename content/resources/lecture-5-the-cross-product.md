@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 5: The Cross Product
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec05))
+
+  *   Solutions ([PDF - 2.1MB](resources/mitres_18_007_parti_sol05))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Vector Arithmetic'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: The Cross Product'
 uid: 4b220022-6270-4e97-1a52-559394347e69
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-007/MITRES_18-007_Part1_lec5_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/288c49d1e4515f4c8c6af5fb22bd5e5f_Yw8vBDhVs8o.vtt
+  video_captions_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/288c49d1e4515f4c8c6af5fb22bd5e5f_Yw8vBDhVs8o.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Yw8vBDhVs8o/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/c556525d5a943b9ff5ca5c4471cd83ab_Yw8vBDhVs8o.pdf
+  video_transcript_file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/c556525d5a943b9ff5ca5c4471cd83ab_Yw8vBDhVs8o.pdf
 video_metadata:
   youtube_id: Yw8vBDhVs8o
 ---

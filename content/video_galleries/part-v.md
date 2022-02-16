@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part V: Multiple Integration'
 uid: 46ce24ec-2b1e-1b1a-3a53-bac28cabfc02
 videos:
