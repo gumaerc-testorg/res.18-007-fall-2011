@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Study Guide
@@ -19,6 +20,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Equations of Lines & Planes'
 uid: 96958979-94a4-403c-a7a0-e1e0d93ceb68
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Study Guide
@@ -19,6 +20,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Multiple Integration and the Jacobian'
 uid: 62a1186b-50f6-48ef-fa74-9505d68642ba
 video_files:

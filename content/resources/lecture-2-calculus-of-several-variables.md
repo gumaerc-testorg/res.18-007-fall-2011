@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Study Guide
@@ -19,6 +20,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Calculus of Several Variables '
 uid: aa38e5fc-e8c2-775d-530d-aa788f77c9b1
 video_files:

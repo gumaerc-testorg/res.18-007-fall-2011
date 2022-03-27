@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Study Guide
@@ -19,6 +20,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Vector Functions of a Scalar Variable'
 uid: 112ebaa5-80c2-650e-dac2-5bf77303f22a
 video_files:
