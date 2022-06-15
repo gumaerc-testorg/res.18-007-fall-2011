@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Maxima and Minima in Several Variables
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiv_lec05))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiv_lec05))
 
-  *   Solutions ([PDF - 3.8MB](resources/mitres_18_007_partiv_sol05))
+  *   Solutions ([PDF - 3.8MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiv_sol05))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part IV: Matrix Algebra'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** With our knowledge of matrix algebra to help, Herb Gross teaches how to find the local maxima and minima of functions of several real variables.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

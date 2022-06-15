@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Polar Coordinates
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partii_lec03))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partii_lec03))
 
-  *   Solutions ([PDF - 2.6MB](resources/mitres_18_007_partii_sol03))
+  *   Solutions ([PDF - 2.6MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partii_sol03))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Vector Calculus'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross defines and demonstrates the use of polar coordinates. He describes the non-uniqueness of polar coordinates and how to calculate the slope of a curve, which depends on the angle the curve makes with the radius vector. Finally, he computes the area (in terms of polar coordinates) of the region between two rays.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

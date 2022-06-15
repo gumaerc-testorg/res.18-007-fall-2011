@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: The Chain Rule
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiii_lec04))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_lec04))
 
-  *   Solutions ([PDF - 2.7MB](resources/mitres_18_007_partiii_sol04))
+  *   Solutions ([PDF - 2.7MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_sol04))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Partial Derivatives'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross shows examples of the chain rule for several variables and develops a proof of the chain rule. He also explains how the chain rule works with higher order partial derivatives and mixed partial derivatives.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

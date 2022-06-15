@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Directional Derivatives
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partiii_lec03))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_lec03))
 
-  *   Solutions ([PDF - 4.2MB](resources/mitres_18_007_partiii_sol03))
+  *   Solutions ([PDF - 4.2MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_sol03))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Partial Derivatives'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross defines the directional derivative and demonstrates how to calculate it, emphasizing the importance of this topic in the study of Calculus of Several Variables. He also covers the definition of a gradient vector.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

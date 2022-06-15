@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: The Dot Product
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec04))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_lec04))
 
-  *   Solutions ([PDF - 2.9MB](resources/mitres_18_007_parti_sol04))
+  *   Solutions ([PDF - 2.9MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_sol04))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Vector Arithmetic'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross motivates the definition of the dot product: Work = Force x Distance. He also shows how to calculate the dot product of two vectors in 3-space. Other topics include projections, directional cosines, and the arithmetic structure of the dot product.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

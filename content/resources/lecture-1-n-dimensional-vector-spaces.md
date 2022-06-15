@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: n-Dimensional Vector Spaces
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.1MB](resources/mitres_18_007_partiii_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.1MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_lec01))
 
-  *   Solutions ([PDF - 4.2MB](resources/mitres_18_007_partiii_sol01))
+  *   Solutions ([PDF - 4.2MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partiii_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Partial Derivatives'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross describes n-dimensional vector spaces, relating definitions to the concept of a mathematical structure. Also covered: n-tuples in n-dimensional space; Structure of n-dimensional vector spaces; Definition of distance between two n-tuples; Limits of real-valued functions of several real variables.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

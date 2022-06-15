@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The "Game" of Mathematics
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.8MB](resources/mitres_18_007_parti_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.8MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_lec01))
 
-  *   Solutions ([PDF - 3.7MB](resources/mitres_18_007_parti_sol01))
+  *   Solutions ([PDF - 3.7MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Vector Arithmetic'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross introduces Calculus Revisited II — Functions of Several Variables — and discusses the over-arching theme "The Game of Mathematics". A game has objectives, rules, and definitions as well as strategies (logical plans) for meeting the objectives of the game. A mathematical structure is identical with the objective being to model real-world experience.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

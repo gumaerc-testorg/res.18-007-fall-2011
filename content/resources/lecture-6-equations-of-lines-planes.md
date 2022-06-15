@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 6: Equations of Lines & Planes
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec06))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_lec06))
 
-  *   Solutions ([PDF - 2.9MB](resources/mitres_18_007_parti_sol06))
+  *   Solutions ([PDF - 2.9MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_sol06))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Vector Arithmetic'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross discusses the topic of equations of lines and planes in 3-dimensional space. Topics include: The normal vector to a plane; Parallel planes; Equation of a plane; Equation of a line in space.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

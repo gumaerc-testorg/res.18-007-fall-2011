@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/78ecb57d85e5c1a20a8d02d2a0d8b100_bBKzHydIl2c.pdf
+file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/78ecb57d85e5c1a20a8d02d2a0d8b100_bBKzHydIl2c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

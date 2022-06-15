@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: Vector Functions of a Scalar Variable
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_partii_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partii_lec01))
 
-  *   Solutions ([PDF - 2.4MB](resources/mitres_18_007_partii_sol01))
+  *   Solutions ([PDF - 2.4MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_partii_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Vector Calculus'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross introduces the topic of vector functions of scalar variables and explains why the result is a vector (since the inputs are scalars). He then reviews limits (definition and related theorems) and presents the topic of differentiation of limits of vector functions. Finally, Prof. Gross then provides an example using velocity and acceleration as a demonstration of vector calculus in real life.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This page includes 4 video lectures and links to associated lecture notes.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Three-Dimensional Vectors
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_007_parti_lec03))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_lec03))
 
-  *   Solutions ([PDF - 2.1MB](resources/mitres_18_007_parti_sol03))
+  *   Solutions ([PDF - 2.1MB](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/resources/mitres_18_007_parti_sol03))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Vector Arithmetic'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Video Description:** Herb Gross introduces 3-dimensional vectors — those with 3 othogonal components (x, y, z directions). This video also covers 3-dimensional magnitude and arithmetic in Cartesian coordinates (not polar coordinates). Prof. Gross also explains how 3-dimensional vectors are structurally the same as 2-dimensional vectors.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+
