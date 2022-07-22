@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: The Chain Rule
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross shows examples of the chain rule for several variables and develops a proof of the chain rule. He also explains how the chain rule works with higher order partial derivatives and mixed partial derivatives.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

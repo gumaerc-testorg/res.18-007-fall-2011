@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Green''s Theorem
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross discusses Green's Theorem: The relationship between line integrals and double integrals over a region in 2-space.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

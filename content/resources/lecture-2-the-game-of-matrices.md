@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 2: The "Game" of Matrices
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross describes the "game" of matrices — the rules of matrix arithmetic and algebra. He also covers non-singularity and the inverse of a matrix.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

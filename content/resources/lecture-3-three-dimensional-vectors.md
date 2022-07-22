@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Three-Dimensional Vectors
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross introduces 3-dimensional vectors — those with 3 othogonal components (x, y, z directions). This video also covers 3-dimensional magnitude and arithmetic in Cartesian coordinates (not polar coordinates). Prof. Gross also explains how 3-dimensional vectors are structurally the same as 2-dimensional vectors.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

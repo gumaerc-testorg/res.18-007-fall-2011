@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 2: The Fundamental Theorem
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross illustrates the equivalence of the Fundamental Theorem of the Calculus of one variable to the Fundamental Theorem of Calculus for several variables. Topics include: The anti-derivative and the value of a definite integral; Iterated integrals.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

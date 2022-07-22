@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: Vectors in Polar Coordinates
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross describes vectors and polar coordinates. Topics include: Motion in the plane; Velocity and acceleration of polar coordinates.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Directional Derivatives
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross defines the directional derivative and demonstrates how to calculate it, emphasizing the importance of this topic in the study of Calculus of Several Variables. He also covers the definition of a gradient vector.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

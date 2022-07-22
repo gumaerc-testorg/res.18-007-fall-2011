@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Polar Coordinates
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross defines and demonstrates the use of polar coordinates. He describes the non-uniqueness of polar coordinates and how to calculate the slope of a curve, which depends on the angle the curve makes with the radius vector. Finally, he computes the area (in terms of polar coordinates) of the region between two rays.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

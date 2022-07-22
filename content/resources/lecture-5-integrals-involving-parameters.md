@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Integrals Involving Parameters
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross show how the chain rule is involved in finding some integrals involving parameters. He computes the derivatives of integrals with constant limits, as well as derivatives of integrals with variable limits of integration (chain rule).
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

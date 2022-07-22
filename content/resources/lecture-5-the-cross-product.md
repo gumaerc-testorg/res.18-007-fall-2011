@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: The Cross Product
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross defines the arithmetic structure of the cross product of two vectors. He then provides an interpretation of the magnitude of cross product as area. He concludes with a brief look at determinants.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: n-Dimensional Vector Spaces
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross describes n-dimensional vector spaces, relating definitions to the concept of a mathematical structure. Also covered: n-tuples in n-dimensional space; Structure of n-dimensional vector spaces; Definition of distance between two n-tuples; Limits of real-valued functions of several real variables.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

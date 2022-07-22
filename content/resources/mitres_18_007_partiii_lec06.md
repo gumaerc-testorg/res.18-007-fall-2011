@@ -4,6 +4,7 @@ description: New file Upload
 file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/23ac7dad518542de9452d5a6f9e4495f_MITRES_18_007_partIII_lec06.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
@@ -13,4 +14,3 @@ title: MITRES_18_007_partIII_lec06.pdf
 uid: 23ac7dad-5185-42de-9452-d5a6f9e4495f
 ---
 New file Upload
-

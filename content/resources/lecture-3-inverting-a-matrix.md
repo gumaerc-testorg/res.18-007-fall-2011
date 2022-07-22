@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Inverting a Matrix
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross illustrates how to invert a square matrix and its relevance to Calculus of Several Variables.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

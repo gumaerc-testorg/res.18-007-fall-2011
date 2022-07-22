@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 6: Equations of Lines & Planes
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross discusses the topic of equations of lines and planes in 3-dimensional space. Topics include: The normal vector to a plane; Parallel planes; Equation of a plane; Equation of a line in space.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

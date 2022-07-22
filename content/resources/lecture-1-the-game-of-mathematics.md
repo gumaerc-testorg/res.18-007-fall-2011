@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The "Game" of Mathematics
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross introduces Calculus Revisited II — Functions of Several Variables — and discusses the over-arching theme "The Game of Mathematics". A game has objectives, rules, and definitions as well as strategies (logical plans) for meeting the objectives of the game. A mathematical structure is identical with the objective being to model real-world experience.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: Double Multiple Sums
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross teaches us how to calculate infinite double (multiple) sums (for topics in calculus of several variables). This topic is analogous to the use of infinite sums in calculus of a single variable.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

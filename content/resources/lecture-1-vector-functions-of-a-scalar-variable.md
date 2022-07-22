@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: Vector Functions of a Scalar Variable
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross introduces the topic of vector functions of scalar variables and explains why the result is a vector (since the inputs are scalars). He then reviews limits (definition and related theorems) and presents the topic of differentiation of limits of vector functions. Finally, Prof. Gross then provides an example using velocity and acceleration as a demonstration of vector calculus in real life.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

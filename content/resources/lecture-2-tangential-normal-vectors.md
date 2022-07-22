@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 2: Tangential & Normal Vectors
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross explains how a vector is tangent to a curve at a point as a function of arc length. Likewise, he explains how a vector is normal to a curve as a function of the derivative of the tangent with regard to arc length and curvature. Prof. Gross presents an example tracking the velocity and acceleration of a particle moving along a curve.  Finally, he discusses similar issues and examples for 3-dimensional curves (binormal).
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

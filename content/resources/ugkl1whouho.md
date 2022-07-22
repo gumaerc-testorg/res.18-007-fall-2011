@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/01a5904e0b91422fac2827d8c47a1f03_UGKL1wHouho.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

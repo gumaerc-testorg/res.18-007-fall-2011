@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: The Dot Product
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross motivates the definition of the dot product: Work = Force x Distance. He also shows how to calculate the dot product of two vectors in 3-space. Other topics include projections, directional cosines, and the arithmetic structure of the dot product.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

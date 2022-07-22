@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Maxima and Minima in Several Variables
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** With our knowledge of matrix algebra to help, Herb Gross teaches how to find the local maxima and minima of functions of several real variables.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

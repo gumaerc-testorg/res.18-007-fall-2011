@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 2: Calculus of Several Variables
@@ -36,6 +37,4 @@ video_metadata:
 **Video Description:** Herb Gross introduces us to the traditional Calculus of Several Variables. He defines and explains the properties of partial derivatives and shows how to draw a graph of a function of several variables. He finds the normal vector (using the cross product) and the tangent plane at a point in terms of partial derivatives. Finally, Prof. Gross shows the change of a function w in the tangent plane as an approximation to the differential of w.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 
