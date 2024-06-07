@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/f69aa8a14a91860a10e0fd2bacd128f0_MITRES_18_007_partIV_sol03.pdf
+file_size: 2999763
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
