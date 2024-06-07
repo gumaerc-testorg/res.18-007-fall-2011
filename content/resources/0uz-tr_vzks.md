@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/ca61680e34ae918707c27c21c4fc7b78_0Uz-TR_vZKs.srt
+file_size: 41489
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
