@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/f533b584db605bc39012f9a32a7fbad5_sSuZn6KHLnU.vtt
+file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/f533b584db605bc39012f9a32a7fbad5_sSuZn6KHLnU.vtt
 file_size: 45445
 file_type: application/x-subrip
 learning_resource_types: []
