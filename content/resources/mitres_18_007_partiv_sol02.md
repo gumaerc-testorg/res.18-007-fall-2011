@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/12088d9b3c1ddef36ef10f184b94f455_MITRES_18_007_partIV_sol02.pdf
+file: /ol-ocw-studio-app/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/12088d9b3c1ddef36ef10f184b94f455_MITRES_18_007_partIV_sol02.pdf
 file_size: 3238087
 file_type: application/pdf
 learning_resource_types: []
