@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to directional derivatives.
-file: /courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8c58b413f5b79194a435127838d49572_MITRES_18_007_partIII_lec01.pdf
+file: /ol-ocw-studio-app/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/8c58b413f5b79194a435127838d49572_MITRES_18_007_partIII_lec01.pdf
 file_size: 1105272
 file_type: application/pdf
 learning_resource_types: []
